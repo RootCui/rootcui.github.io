@@ -1,5 +1,7 @@
 # WhatATheme
 markdown: kramdown
+kramdown:
+  math_engine: null
 
 # URL of the Site
 url: ''
