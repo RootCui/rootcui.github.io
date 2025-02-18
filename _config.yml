@@ -47,7 +47,7 @@ author-name: RootCui
 # URL for the Image of the Author
 author-image: /assets/images/wechat.jpg?raw=true
 # 60 Words About the Author
-author-about: 一般通过高中生
+author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: rootcui.github.io
 
